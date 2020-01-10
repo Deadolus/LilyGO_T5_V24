@@ -1,5 +1,6 @@
-# TTGO T5 Board test code
+# LilyGO T5 V24 Board test code
 
+![](image/1.jpg)
 ## 1.Install the following dependency library files:
 **The following two libraries are not original branches, they are my modified branches.**
 - [lewisxGxEPD](https://github.com/lewisxhe/GxEPD)
